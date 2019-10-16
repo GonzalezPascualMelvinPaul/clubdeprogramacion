@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-holaaaaa
-=======
-holaaaaa
->>>>>>> 1fa5087773653d5621f96c66a1493681e2f74da7
-cmo estas
+que paso aca
