@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Nota
+comment1.params=contenido\ titulo\ fecha
+comment1.target=Nota(java.lang.String,\ java.lang.String,\ java.util.Date)
+comment2.params=
+comment2.target=void\ setcontenido()
+comment3.params=contenido
+comment3.target=java.lang.String\ getcontenido(java.lang.String)
+comment4.params=
+comment4.target=void\ settitulo()
+comment5.params=titulo
+comment5.target=java.lang.String\ gettitulo(java.lang.String)
+comment6.params=
+comment6.target=void\ setfecha()
+comment7.params=fecha
+comment7.target=java.util.Date\ getfecha(java.util.Date)
+numComments=8
